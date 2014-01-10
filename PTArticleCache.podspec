@@ -5,5 +5,4 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/EuanChan/PTArticleCache'
   s.source   = { :git => 'https://github.com/EuanChan/PTArticleCache.git'}
   s.source_files = 'PTArticleCache/PTArticleCache.h','PTArticleCache/PTArticleCache.m'
-  s.requires_arc = false
 end
